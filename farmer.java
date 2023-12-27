@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+
+
 class Farmer extends phonepe
 {
    static Scanner sc = new Scanner(System.in);
